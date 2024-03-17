@@ -9,8 +9,7 @@ body{
     display: grid;
     place-content: center;
     font-size: 3rem;
-    background-color: black;
-    color: whitesmoke;
+    background-color: whitesmoke;
 }
 
 h1, p{
